@@ -2,14 +2,16 @@
 about:
   enable : true
   image : "images/company/about.jpg"
-  title : "We strive to be the best and <br> make awesome work."
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius enim, accusantium repellat ex autem numquam
-          iure officiis facere vitae itaque.
+  title : ""
+  content : "Chennai Pharma Consultants (CPC)  has been consistently serving the pharmaceutical industries since 2003. 
+             Over the years, CPC, the leading consulting firm offers turnkey solutions to the pharmaceutical industry globally.
           
           
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam qui vel cupiditate exercitationem, ea fuga est
-          velit nulla culpa modi quis iste tempora non, suscipit repellendus labore voluptatem dicta amet? Lorem ipsum
-          dolor sit amet, consectetur adipisicing elit. Provident, neque!"
+          CPC offers services such as Project Management through Team Work systematic approach as 
+          listed - product forecast, estimation of production capacity, project mission assignment, 
+          design concept & conceptual drawings, development of process flow, development of 
+          room data sheet, develop project validation master plan, equipment listing, sourcing of equipment’s and 
+          documentation for URS, FDS, IQ, OQ, PQ, FAT, SAT etc."
 
   button:
     enable : true
@@ -21,11 +23,6 @@ about:
     - icon : "ion-ios-flask-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Completed Projects"
       count : "349"
-      
-    # funfacts loop
-    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
-      name : "Lines Of Code"
-      count : "35000"
       
     # funfacts loop
     - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
