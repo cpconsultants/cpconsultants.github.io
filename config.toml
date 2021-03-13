@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://examplesite.org"
+baseURL = "https://cpconsultants.github.io"
 title = "Airspace | Creative Agency Hugo Template"
 theme = "airspace-hugo"
 themesDir = "themes"
