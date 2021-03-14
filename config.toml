@@ -75,8 +75,9 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
-logo_width = "150px"
+logo = "images/cpc_logo.jpg"
+logo_width = "275px"
+
 # Meta data
 description = "Your trusted partner in project planning"
 author = "Natesan Venkatesh"
@@ -104,8 +105,8 @@ link = "contact"
 
 # google map
 [params.gmap]
-enable = true
-gmap_api = "AIzaSyDtkDmsKnIiVV74L4ps_5MNvr0gCPCM8ck"
+enable = false
+gmap_api = ""
 map_latitude = "13.015844"
 map_longitude = "80.227427"
 map_marker = "images/marker.png"

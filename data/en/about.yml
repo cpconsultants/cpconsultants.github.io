@@ -16,7 +16,7 @@ about:
   button:
     enable : true
     label : "Download Company Profile"
-    link : "#"
+    link : "profile/cpc-profile.pdf"
 
   funfacts:
     # funfacts loop
