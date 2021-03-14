@@ -23,7 +23,6 @@ about:
             anim id."
   image : "images/wrapper-img.png"
 
-
 ######################### Portfolio ###############################
 portfolio:
   enable : true

@@ -25,6 +25,11 @@ about:
       count : "349"
       
     # funfacts loop
+    - icon : "ion-ios-flame-outline" #ionicon pack v2 : https://ionicons.com/v2/
+      name : "Lines Of Code"
+      count : "35000"
+      
+    # funfacts loop
     - icon : "ion-ios-pint-outline" #ionicon pack v2 : https://ionicons.com/v2/
       name : "Satisfied Customer"
       count : "70"
