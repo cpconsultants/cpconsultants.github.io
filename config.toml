@@ -75,8 +75,8 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 
 #################### default parameters ################################
 [params]
-logo = "images/cpc_logo.jpg"
-logo_width = "275px"
+logo = "images/logo2.png"
+logo_width = "220px"
 
 # Meta data
 description = "Your trusted partner in project planning"
@@ -149,7 +149,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Copyright &copy; 2020 [CPC](https://cpconsultants.com) All Rights Reserved"
+copyright = "Copyright &copy; 2022 [CPC](https://cpconsultant.in) All Rights Reserved"
 
 
 ######################### english navigation #############################
@@ -165,7 +165,7 @@ URL = "about"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "Project"
+name = "clients"
 URL = "project"
 weight = 3
 
@@ -194,11 +194,6 @@ weight = 3
   #name = "Service"
   #URL = "service"
 
-[[Languages.en.menu.main]]
-parent = "Pages"
-  #name = "Service"
-  #URL = "service"
-
 
 [[Languages.en.menu.main]]
 name = "Contact"
@@ -213,7 +208,7 @@ URL = "about"
 weight = 1
 
 [[Languages.en.menu.footer]]
-name = "Project"
+name = "Clients"
 URL = "project"
 weight = 2
 
@@ -221,16 +216,6 @@ weight = 2
 name = "Service"
 URL = "service"
 weight = 3
-
-[[Languages.en.menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
-
-[[Languages.en.menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
 
 [[Languages.en.menu.footer]]
 name = "Contact"

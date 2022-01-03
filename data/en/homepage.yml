@@ -1,14 +1,17 @@
 ############################### Banner ##############################
 banner:
   enable : true
-  bg_image : "images/slider-bg.jpg"
-  bg_overlay : false
-  title : "A Digital Marketing <br/> & Design Agency"
-  content : "We love the Web and the work we do.We work closely with our clients to deliver  the best possible solutions for their needs"
+  bg_image : "images/homepage/homepage-bg1.jpg"
+  #bg_image : "images/homepage/homepage-bg3.jpeg"
+  
+  bg_overlay : true
+  title : "Chennai Pharma Consultants"
+  #content : "Your trusted partner in project planning!"
+  content : "Our focus and goal, each day, is to help companies grow and prosper </br> by offering pharmaceutical solutions around the world"
   button:
-    enable : true
-    label : "Discover Our Project"
-    link : "project"
+    enable : false
+    label : "Discover Our Services"
+    link : "services"
 
 ############################# About #################################
 about:
@@ -21,7 +24,9 @@ about:
           design concept & conceptual drawings, development of process flow, development of 
           room data sheet, develop project validation master plan, equipment listing, sourcing of equipment’s and 
           documentation for URS, FDS, IQ, OQ, PQ, FAT, SAT etc."
-  image : "images/wrapper-img.png"
+  # image : "images/wrapper-img.png"
+  image : "images/homepage/about-us-homepage.png"
+  
 
 ######################### Portfolio ###############################
 portfolio:
@@ -56,7 +61,7 @@ cta:
   title : "We design delightful digital experiences."
   content : "Read more about what we do and our philosophy of design. Judge for yourself The work and results <br> we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
   button:
-    enable : true
+    enable : false
     label : "Tell Us Your Story"
     link : "contact"
 
