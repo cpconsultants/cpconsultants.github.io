@@ -2,7 +2,6 @@
 banner:
   enable : true
   bg_image : "images/homepage/homepage-bg1.jpg"
-  #bg_image : "images/homepage/homepage-bg3.jpeg"
   
   bg_overlay : true
   title : "Chennai Pharma Consultants"
