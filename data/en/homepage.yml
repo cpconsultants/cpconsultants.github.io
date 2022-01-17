@@ -18,11 +18,14 @@ about:
   title : "About Us"
   description : "Chennai Pharma Consultants (CPC)  has been consistently serving the pharmaceutical industries since 2003. 
              Over the years, CPC, the leading consulting firm offers turnkey solutions to the pharmaceutical industry globally."
-  content : "CPC offers services such as Project Management through Team Work systematic approach as 
-          listed - product forecast, estimation of production capacity, project mission assignment, 
-          design concept & conceptual drawings, development of process flow, development of 
-          room data sheet, develop project validation master plan, equipment listing, sourcing of equipment’s and 
-          documentation for URS, FDS, IQ, OQ, PQ, FAT, SAT etc."
+  content : "CPC provides architectural and engineering services to the Pharmaceutical, Chemicals Industries. We are a turnkey project consultant offering various services from scratch up to start-up,  erection & commissioning of new pharmaceutical plants. Our vision is to provide economic & state of art pharmaceutical unit with compliance of international standard to our clients. We experience in more than 50 pharmaceuticals units globally."
+  
+  
+  # content : "CPC offers services such as Project Management through Team Work systematic approach as 
+  #         listed - product forecast, estimation of production capacity, project mission assignment, 
+  #         design concept & conceptual drawings, development of process flow, development of 
+  #         room data sheet, develop project validation master plan, equipment listing, sourcing of equipment’s and 
+  #         documentation for URS, FDS, IQ, OQ, PQ, FAT, SAT etc."
   # image : "images/wrapper-img.png"
   image : "images/homepage/about-us-homepage.png"
   
@@ -30,20 +33,20 @@ about:
 ######################### Portfolio ###############################
 portfolio:
   enable : true
-  bg_image : "images/featue-bg.jpg"
-  title : "WE BELIEVE IN GREAT IDEAS"
+  bg_image : "images/homepage/pharma-machinery-crop.png"
+  # bg_image : "https://live.staticflickr.com/7535/15624369163_8da690ddd6_b.jpg"
+  title : "HOW CAN WE HELP YOU?"
   content : "
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-
-  Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-  "
+          CPC offers services such as Project Management through Team Work systematic approach as 
+          listed - product forecast, estimation of production capacity, project mission assignment, 
+          design concept & conceptual drawings, development of process flow, development of 
+          room data sheet, develop project validation master plan, equipment listing, sourcing of equipment’s and 
+          documentation for URS, FDS, IQ, OQ, PQ, FAT, SAT etc.
+          <br><br><br>
+           "
   button:
     enable : true
-    label : "View Works"
+    label : "View our Works"
     link : "project"
 
 

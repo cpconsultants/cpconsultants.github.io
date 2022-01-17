@@ -1,8 +1,10 @@
 ################################## About #####################################
 about:
   enable : true
-  image : "images/company/about.jpg"
-  title : ""
+  # image : "images/company/about.jpg"
+  image : "https://live.staticflickr.com/7483/16079008399_75dee1821d_b.jpg" 
+
+  title : "Hellp"
   content : "Chennai Pharma Consultants (CPC)  has been consistently serving the pharmaceutical industries since 2003. 
              Over the years, CPC, the leading consulting firm offers turnkey solutions to the pharmaceutical industry globally.
           
@@ -51,7 +53,7 @@ about:
       
 ################################ feature #####################################
 features:
-  enable : true
+  enable : false
   title : "We are indepented Design & Development Agency"
   feature_item:
     # feature item loop
@@ -129,5 +131,5 @@ mission_vision:
 
 ############################# call to action #################################
 cta:
-  enable : true
+  enable : false
   # call to action content comes from "data/*/homepage.yml"

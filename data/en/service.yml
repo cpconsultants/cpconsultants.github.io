@@ -40,50 +40,63 @@ featured_service:
 service:
   enable : true
   title : "Our Services"
-  description : "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, <br> there live the
-          blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics"
+  description : "We help to find the right technoolgy that matches your needs while balancing your invenstment, operational costs, <br> regulatory requirements and risks. Here are some of our services that we offer "
   service_item:
     # service item loop
-    - icon : ion-coffee #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Branding
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-gear-b #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: PROJECT
+      content: "Process Flow Preparation of Room Data Sheet, Machineries Listing, Conceptual Design Lay Out Design of HVAC System, Water System & Gas System. Documentations URS, FDS, DQ, IQ,OQ,PQ for Machineries"
 
     # service item loop
-    - icon : ion-compass #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Web Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-loop #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: PRODUCTION
+      content: "Production Planning, Manufacturing of Parenteral & Non-Parenteral Formulations, Staff Training, Skill Mapping , GMP Compliance and ensuring smooth production operation with increased productivity by setting optimistic Key Performance Indicators"
 
     # service item loop
-    - icon : ion-image #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: App Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Start Up
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-headphone #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Logo Design
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Development
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
-
-    # service item loop
-    - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+    - icon : ion-erlenmeyer-flask #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+      name: PROCESS ENGINEERING
+      content: "Establishment of ideal filtration & Sterilization Process for the Sterile Formulations. & Ideal Granulation Process for Solid Dosage Formulations. Calculations for consumption of Utilities for the Production & Process Validations"
 
     # service item loop
     - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
-      name: Brand Identity
-      content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+      name: MATERIAL SOURCING
+      content: "Sourcing of required machines/equipments for production and starting materials such as Raw Materials APIs Additives, Primary & Secondary Packaging Materials from Asia, and Europe & USA for new product development/production"
+
+  #  # service item loop
+  #   - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+  #     name: RESEARCH & DEVELOPMENT
+  #     content: "Development of Generic Formulations using appropriate Bench Mark Samples."
+
+  #  # service item loop
+  #   - icon : ion-bug #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+  #     name: MACHINERY SOURCING
+  #     content: "Sourcing of required machines & equipments for the Production Operations"
+
+    # # service item loop
+    # - icon : ion-leaf #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    #   name: Development
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # # service item loop
+    # - icon : ion-planet #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    #   name: Brand Identity
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
+
+    # # service item loop
+    # - icon : ion-earth #ionicon pack v2 : https://ionicons.com/v2/ #ionicon pack v2 : https://ionicons.com/v2/
+    #   name: Brand Identity
+    #   content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut"
       
 ############################# call to action #################################
 cta:
   enable : true
   # call to action content comes from "data/*/homepage.yml"
+
+
+
+
+# PROJECT - 
+# PRODUCTION - Production Planning, Manufacturing of Parenteral & Non â€“ Parenteral Formulations, Staff Training, Skill Mapping , GMP Compliance and ensuring smooth production operation with increased productivity by setting optimistic Key Performance Indicators.
+# PROCESS ENGINEERING - Establishment of ideal filtration & Sterilization Process for the Sterile Formulations. & Ideal Granulation Process for Solid Dosage Formulations. Calculations for consumption of Utilities for the Production & Process Validations.
+# RESEARCH & DEVELOPMENT - Development of Generic Formulations using appropriate Bench Mark Samples.
+# MATERIAL SOURCING - Sourcing of required machines & equipments for the Production Operations. & sourcing of Starting materials such as Raw Materials APIâ€™s Additives, Primary & Secondary Packaging Materials from Asia, and Europe & USA for the development of new product and for scale up production commercial batches.
